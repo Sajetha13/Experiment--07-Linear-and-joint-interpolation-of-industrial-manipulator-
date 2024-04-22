@@ -74,3 +74,5 @@ DART studio screen shots for joint interpolation
 
 
 ### Results:  
+
+Thus linear and joint interpolation of industrial manipulator is understood.
