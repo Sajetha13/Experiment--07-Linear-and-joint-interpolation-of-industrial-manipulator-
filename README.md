@@ -4,6 +4,7 @@
 ## NAME : S.Sajetha																			             
 ## ROLLNUMBER : 212223100049
 
+
 ## Aim :
 To understand linear and joint interpolation of industrial manipulator and develop a program for the same 
       
@@ -66,6 +67,10 @@ DART studio screen shots for joint interpolation
 
 
 ![2_7](https://github.com/Sajetha13/Experiment--07-Linear-and-joint-interpolation-of-industrial-manipulator-/assets/138849316/7e06e10e-be3c-4840-a3fe-33a11dce059c)
+
+
+
+
 
 
 
