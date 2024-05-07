@@ -1,6 +1,6 @@
 # Experiment--07-Linear-and-joint-interpolation-of-industrial-manipulator-
 
-## DATE : 16.02.2024
+## DATE : 22/04/2024
 ## NAME : S.Sajetha																			             
 ## ROLLNUMBER : 212223100049
 
