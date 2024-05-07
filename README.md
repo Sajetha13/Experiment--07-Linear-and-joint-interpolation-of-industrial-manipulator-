@@ -1,13 +1,17 @@
 # Experiment--07-Linear-and-joint-interpolation-of-industrial-manipulator-
 
-### Aim :
-      To understand linear and joint interpolation of industrial manipulator and develop a program for the same 
+## DATE : 16.02.2024
+## NAME : S.Sajetha																			             
+## ROLLNUMBER : 212223100049
+
+## Aim :
+To understand linear and joint interpolation of industrial manipulator and develop a program for the same 
       
-### Equipment Required: 
-      Instrial manipulator , teach pendant and associated program platform 
+## Equipment Required: 
+Instrial manipulator , teach pendant and associated program platform 
       
-### Theory 
-    The following interpolation schemes are available in most of the robot controllers.
+## Theory 
+The following interpolation schemes are available in most of the robot controllers.
 1. Joint interpolation
 2. Straight line interpolation
 3. Circular interpolation
@@ -35,7 +39,7 @@ When the manipulator wrist is moved by the programmer to teach, the movements co
 ### Figure -01 difference between P-P , joint and linear interpolation 
 
 
-### Program : 
+## Program : 
 DART studio screen shots for linear interpolation and
 
 
@@ -56,7 +60,7 @@ DART studio screen shots for joint interpolation
 
 
 
-### Robot movements 
+## Robot movements 
 
 ![1_7](https://github.com/Sajetha13/Experiment--07-Linear-and-joint-interpolation-of-industrial-manipulator-/assets/138849316/39235d8b-1ec5-4e25-b833-7a192e8156a2)
 
@@ -73,6 +77,6 @@ DART studio screen shots for joint interpolation
 
 
 
-### Results:  
+## Results:  
 
 Thus linear and joint interpolation of industrial manipulator is understood.
